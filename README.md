@@ -12,7 +12,6 @@ What You Will Learn:
 
 •	Sales and profit by car type and fuel type
 
-
 •	Online vs offline booking performance
 
 •	Weekend vs weekday sales comparison
